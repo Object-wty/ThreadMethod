@@ -1,0 +1,3 @@
+# ThreadMethod
+
+ThreadMethodHelper提供了线程安全的跨线程操作的示例，可以下载后根据示例添加其他的控件，然后生成dll文件引用
